@@ -1,4 +1,6 @@
-# [Documentation](https://dnvgl.github.io/WebAppTemplateDoc)
+# Visiting the documentation
+
+[https://dnvgl.github.io/WebAppTemplateDoc](https://dnvgl.github.io/WebAppTemplateDoc)
 
 # Updating document
 

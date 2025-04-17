@@ -1,3 +1,5 @@
+# [Documentation](https://dnvgl.github.io/WebAppTemplateDoc)
+
 # Updating document
 
 The source code of the document is [here](https://github.com/dnvgl/WebAppTemplate/tree/release/documentation).

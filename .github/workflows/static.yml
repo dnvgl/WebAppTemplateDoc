@@ -33,9 +33,7 @@ jobs:
         run: echo ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Update submodules
         run: |
-          git clone -b master --single-branch --depth 1 --depth 1 https://github.com/dnvgl/WebAppTemplateDoc.git docs/articles
-
-          git clone -b release/documentation --single-branch --depth 1 https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/dnvgl/WebAppTemplate.git website
+          git clone -b document --single-branch --depth 1 --depth 1 https://github.com/dnvgl/WebAppTemplateDoc.git docs/articles
 
           git clone -b gh-pages --single-branch --depth 1 --depth 1 https://github.com/dnvgl/WebAppTemplateDoc.git docs/_site
 

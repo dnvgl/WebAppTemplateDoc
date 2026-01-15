@@ -1,6 +1,6 @@
 # Visiting the documentation
 
-[https://dnvgl.github.io/WebAppTemplateDoc](https://dnvgl.github.io/WebAppTemplateDoc)
+[Documentation here](https://shiny-couscous-9qvp8y4.pages.github.io)
 
 # Updating document
 
